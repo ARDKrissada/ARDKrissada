@@ -29,7 +29,6 @@
 
 void main(void);
 
-Unsigned char Bank;
 
 void main(void)
 {

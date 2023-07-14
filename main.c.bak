@@ -29,6 +29,8 @@
 
 void main(void);
 
+Unsigned char Bank;
+
 void main(void)
 {
 	unsigned int8 Github=0;
